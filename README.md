@@ -1,20 +1,19 @@
 # SQL_ZOO
-- [ ] 0 SELECT basics
-- [ ] 1 SELECT name
-- [ ] 2 SELECT from World
-- [ ] 3 SELECT from Nobel
-- [ ] 4 SELECT within SELECT
-- [ ] 5 SUM and COUNT
-- [ ] 6 JOIN
-- [ ] 7 More JOIN operations
-- [ ] 8 Using Null
-- [ ] 8+ Numeric Examples
-- [ ] 9- Window function
+SQLZoo is a well established online platform (since 1999) for writing and running SQL queries against a live database.
+https://sp.sqlzoo.net/wiki/SQL_Tutorial
+- [x] 0 SELECT basics
+- [x] 1 SELECT name
+- [x] 2 SELECT from World
+- [x] 3 SELECT from Nobel
+- [x] 4 SELECT within SELECT
+- [x] 5 SUM and COUNT
+- [x] 6 JOIN
+- [x] 7 More JOIN operations
+- [x] 8 Using Null
+- [x] 8+ Numeric Examples
+- [x] 9- Window function
 - [ ] 9+ COVID 19
-- [ ] 9 Self join
-- [ ] 10 Tutorial Quizzes
-- [ ] 11 Tutorial Student Records
-- [ ] 12 Tutorial DDL
+- [x] 9 Self join
 - [ ] Module Feedback
 - [ ] Help Desk
 - [ ] Guest House
@@ -23,7 +22,7 @@
 - [ ] Musicians
 - [ ] Dressmaker
 - [ ] Congestion Charging
-- [ ] White Christmas
+- [ ] White Christmass
 
 # LeetCode
 - [ ] LeetCode
