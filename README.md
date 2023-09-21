@@ -1,6 +1,8 @@
 # SQL_ZOO
 SQLZoo is a well established online platform (since 1999) for writing and running SQL queries against a live database.
 https://sp.sqlzoo.net/wiki/SQL_Tutorial
+
+
 - [x] 0 SELECT basics
 - [x] 1 SELECT name
 - [x] 2 SELECT from World
@@ -12,9 +14,9 @@ https://sp.sqlzoo.net/wiki/SQL_Tutorial
 - [x] 8 Using Null
 - [x] 8+ Numeric Examples
 - [x] 9- Window function
-- [ ] 9+ COVID 19
+- [x] 9+ COVID 19
 - [x] 9 Self join
-- [ ] Module Feedback
+- [x] White Christmass
 - [ ] Help Desk
 - [ ] Guest House
 - [ ] Adventure Works
@@ -22,7 +24,7 @@ https://sp.sqlzoo.net/wiki/SQL_Tutorial
 - [ ] Musicians
 - [ ] Dressmaker
 - [ ] Congestion Charging
-- [ ] White Christmass
+(If I had time, I would do these😉)
 
 # LeetCode
 - [ ] LeetCode
